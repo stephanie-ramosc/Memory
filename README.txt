@@ -26,9 +26,3 @@ El Working Set Clock Replacement Algorithm debe recibir como parámetro el núme
 Para correr el programa se necesita que se escriba de esta manera:
 python wsclock.py 10 5 test1.txt
 10 es el número de páginas que desea darle, el 5 es el tau que se le va a mandar y test1.txt es el file de pruba a ejecutarse dentro del progrma. (Para que esto salga tiene que ponerse el path donde está guardado dichos files).
-
-
-Para esta asignación/proyecto me ayudaron:
-María Ramos
-Carlos Díaz
-Nathalia Alicea
